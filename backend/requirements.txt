@@ -1,0 +1,8 @@
+# backend/requirements.txt
+fastapi
+uvicorn
+torch
+transformers
+sqlalchemy
+psycopg2-binary
+python-dotenv
